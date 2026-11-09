@@ -1,0 +1,44 @@
+{
+  "description": "Documents published from 11/01/2026 to 11/09/2026 and from Labor Department",
+  "count": 3,
+  "total_pages": 2,
+  "previous_page_url": "https://www.federalregister.gov/api/v1/documents?conditions%5Bagencies%5D%5B%5D=labor-department&conditions%5Bpublication_date%5D%5Bgte%5D=2026-11-01&conditions%5Bpublication_date%5D%5Blte%5D=2026-11-09&fields%5B%5D=document_number&fields%5B%5D=title&fields%5B%5D=type&fields%5B%5D=abstract&fields%5B%5D=publication_date&fields%5B%5D=comments_close_on&fields%5B%5D=effective_on&fields%5B%5D=html_url&fields%5B%5D=pdf_url&fields%5B%5D=comment_url&fields%5B%5D=agencies&fields%5B%5D=docket_ids&fields%5B%5D=regulation_id_numbers&format=json&order=newest&page=1&per_page=2&search_after_cursor=WzE3OTM5MjMyMDAwMDAsIjIwMjYtMjI2ODAiXQ",
+  "results": [
+    {
+      "document_number": "2026-22306",
+      "title": "Improving Transparency Into Pharmacy Benefit Manager Fee Disclosure",
+      "type": "Rule",
+      "abstract": "The Department is issuing a final regulation that will require providers of pharmacy benefit management services and affiliated providers of brokerage and consulting services to disclose information about their compensation to fiduciaries of large, self-insured group health plans subject to the Employee Retirement Income Security Act (ERISA). Pharmacy spending is a major driver of overall healthcare costs for employers and is growing faster than medical and surgical spending. These disclosure requirements apply for purposes of ERISA's statutory prohibited transaction exemption for service arrangements under section 408(b)(2). These disclosures are needed so that fiduciaries can assess the reasonableness of contracts or arrangements with these service providers, including the reasonableness of the service providers' compensation. As directed in section 12 of President Trump's Executive Order 14273, Lowering Drug Prices by Once Again Putting Americans First, the Department is issuing this rule to improve employer health plan transparency into the direct and indirect compensation received by pharmacy benefit managers. This final rule will affect sponsors and other fiduciaries of large, self-insured group health plans and certain service providers to such plans.",
+      "publication_date": "2026-11-02",
+      "comments_close_on": null,
+      "effective_on": "2027-01-04",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/02/2026-22306/improving-transparency-into-pharmacy-benefit-manager-fee-disclosure",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-02/pdf/2026-22306.pdf",
+      "comment_url": null,
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF LABOR",
+          "name": "Labor Department",
+          "id": 271,
+          "url": "https://www.federalregister.gov/agencies/labor-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
+          "parent_id": null,
+          "slug": "labor-department"
+        },
+        {
+          "raw_name": "Employee Benefits Security Administration",
+          "name": "Employee Benefits Security Administration",
+          "id": 131,
+          "url": "https://www.federalregister.gov/agencies/employee-benefits-security-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/131",
+          "parent_id": 271,
+          "slug": "employee-benefits-security-administration"
+        }
+      ],
+      "docket_ids": [],
+      "regulation_id_numbers": [
+        "1210-AB37"
+      ]
+    }
+  ]
+}

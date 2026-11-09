@@ -1,0 +1,64 @@
+{
+  "description": "Documents matching '\"small business\" | emissions', published from 10/01/2026 to 11/06/2026, from Environmental Protection Agency, and of type Proposed Rule",
+  "count": 19,
+  "total_pages": 10,
+  "next_page_url": "https://www.federalregister.gov/api/v1/documents?conditions%5Bagencies%5D%5B%5D=environmental-protection-agency&conditions%5Bpublication_date%5D%5Bgte%5D=2026-10-01&conditions%5Bpublication_date%5D%5Blte%5D=2026-11-06&conditions%5Bterm%5D=%22small+business%22+%7C+emissions&conditions%5Btype%5D%5B%5D=PRORULE&fields%5B%5D=document_number&fields%5B%5D=title&fields%5B%5D=type&fields%5B%5D=abstract&fields%5B%5D=publication_date&fields%5B%5D=comments_close_on&fields%5B%5D=effective_on&fields%5B%5D=html_url&fields%5B%5D=pdf_url&fields%5B%5D=comment_url&fields%5B%5D=agencies&fields%5B%5D=docket_ids&fields%5B%5D=regulation_id_numbers&format=json&order=newest&page=2&per_page=2",
+  "results": [
+    {
+      "document_number": "2026-22592",
+      "title": "Air Plan Approval; District of Columbia; Enhanced Vehicle Emission Inspection and Maintenance (I/M) Program Revision and Basic I/M Program Certification for Moderate Nonattainment Areas Under the 2015 Ozone NAAQS",
+      "type": "Proposed Rule",
+      "abstract": "The Environmental Protection Agency (EPA) is proposing to approve a State Implementation Plan (SIP) revision submitted by the District of Columbia (DC, or the District). This revision incorporates regulatory updates made to the District's Enhanced motor vehicle emissions inspection and maintenance (I/M) program since the EPA's last SIP approval. The SIP revision also serves to certify that the District's existing Enhanced I/M program meets Clean Air Act (CAA) requirements for a Basic I/M program for the District's portion of the Washington, DC-MD-VA nonattainment area (the Washington nonattainment area) for the 2015 Ozone National Ambient Air Quality Standard (NAAQS).",
+      "publication_date": "2026-11-05",
+      "comments_close_on": "2026-12-07",
+      "effective_on": null,
+      "html_url": "https://www.federalregister.gov/documents/2026/11/05/2026-22592/air-plan-approval-district-of-columbia-enhanced-vehicle-emission-inspection-and-maintenance-im",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-05/pdf/2026-22592.pdf",
+      "comment_url": "http://www.regulations.gov/commenton/EPA-R03-OAR-2026-1024-0001",
+      "agencies": [
+        {
+          "raw_name": "ENVIRONMENTAL PROTECTION AGENCY",
+          "name": "Environmental Protection Agency",
+          "id": 145,
+          "url": "https://www.federalregister.gov/agencies/environmental-protection-agency",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/145",
+          "parent_id": null,
+          "slug": "environmental-protection-agency"
+        }
+      ],
+      "docket_ids": [
+        "EPA-R03-OAR-2026-1024",
+        "FRL-12072-01-R3"
+      ],
+      "regulation_id_numbers": []
+    },
+    {
+      "document_number": "2026-22588",
+      "title": "Air Quality Implementation Plans; California; San Joaquin Valley; 2015 8-Hour Ozone Nonattainment Area Requirements; and California Consumer Products Regulations",
+      "type": "Proposed Rule",
+      "abstract": "The U.S. Environmental Protection Agency (EPA) proposes to approve State implementation plan (SIP) revisions submitted by the State of California to meet Clean Air Act (CAA or \"Act\") requirements for the 2015 8-hour ozone national ambient air quality standards (NAAQS or \"standards\") in the San Joaquin Valley ozone nonattainment area (\"San Joaquin Valley\" or \"SJV\"). In this document, the EPA refers to these submissions collectively as the \"SJV 70 ppb Ozone SIP.\" The EPA proposes to approve the SJV 70 parts per billion (ppb) Ozone SIP as meeting the applicable ozone nonattainment area requirements for emissions inventories, reasonably available control measures, attainment demonstration, rate of progress and reasonable further progress, motor vehicle emissions budgets, and enhanced monitoring. The EPA is also initiating the adequacy process for the budgets included in this SIP submission through this proposed rule. The EPA also proposes to approve two SIP revisions amending the SIP to incorporate changes reflecting updates to California Air Resources Board (CARB) Consumer Products Regulations and Method 310, which apply statewide and upon which the SJV 70 ppb Ozone SIP relies. These regulations concern emissions of volatile organic compounds (VOC) from antiperspirants, deodorants, consumer products, and aerosol coating products, and Method 310 is used to determine the VOC and reactive organic compounds content of these products. The EPA proposes to approve these regulations for purposes of the State's SIP under the CAA.",
+      "publication_date": "2026-11-05",
+      "comments_close_on": "2026-12-07",
+      "effective_on": null,
+      "html_url": "https://www.federalregister.gov/documents/2026/11/05/2026-22588/air-quality-implementation-plans-california-san-joaquin-valley-2015-8-hour-ozone-nonattainment-area",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-05/pdf/2026-22588.pdf",
+      "comment_url": "http://www.regulations.gov/commenton/EPA-R09-OAR-2026-8252-0001",
+      "agencies": [
+        {
+          "raw_name": "ENVIRONMENTAL PROTECTION AGENCY",
+          "name": "Environmental Protection Agency",
+          "id": 145,
+          "url": "https://www.federalregister.gov/agencies/environmental-protection-agency",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/145",
+          "parent_id": null,
+          "slug": "environmental-protection-agency"
+        }
+      ],
+      "docket_ids": [
+        "EPA-R09-OAR-2026-8252",
+        "FRL-13635-01-R9"
+      ],
+      "regulation_id_numbers": []
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "description": "Documents published from 11/01/2026 to 11/09/2026 and from Labor Department",
+  "count": 3,
+  "total_pages": 2,
+  "next_page_url": "https://www.federalregister.gov/api/v1/documents?conditions%5Bagencies%5D%5B%5D=labor-department&conditions%5Bpublication_date%5D%5Bgte%5D=2026-11-01&conditions%5Bpublication_date%5D%5Blte%5D=2026-11-09&fields%5B%5D=document_number&fields%5B%5D=title&fields%5B%5D=type&fields%5B%5D=abstract&fields%5B%5D=publication_date&fields%5B%5D=comments_close_on&fields%5B%5D=effective_on&fields%5B%5D=html_url&fields%5B%5D=pdf_url&fields%5B%5D=comment_url&fields%5B%5D=agencies&fields%5B%5D=docket_ids&fields%5B%5D=regulation_id_numbers&format=json&order=newest&page=2&per_page=2&search_after_cursor=WzE3OTM5MjMyMDAwMDAsIjIwMjYtMjI2ODAiXQ",
+  "results": [
+    {
+      "document_number": "2026-22761",
+      "title": "Rules of Practice and Procedure for Administrative Hearings Before the Office of Administrative Law Judges",
+      "type": "Rule",
+      "abstract": "This action finalizes the Department of Labor's (DOL or Department) proposal to require electronic filing (e-filing) in proceedings before the Office of Administrative Law Judges (OALJ), published on January 11, 2021. The Department has reviewed the comments received in response to the proposal and is now implementing the rule as described in the proposed rule of January 11, 2021, with appropriate exceptions for good cause shown and self-represented parties.",
+      "publication_date": "2026-11-09",
+      "comments_close_on": null,
+      "effective_on": "2026-12-09",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/09/2026-22761/rules-of-practice-and-procedure-for-administrative-hearings-before-the-office-of-administrative-law",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-09/pdf/2026-22761.pdf",
+      "comment_url": null,
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF LABOR",
+          "name": "Labor Department",
+          "id": 271,
+          "url": "https://www.federalregister.gov/agencies/labor-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
+          "parent_id": null,
+          "slug": "labor-department"
+        },
+        {
+          "raw_name": "Office of the Secretary"
+        }
+      ],
+      "docket_ids": [],
+      "regulation_id_numbers": [
+        "1290-AA36"
+      ]
+    },
+    {
+      "document_number": "2026-22680",
+      "title": "Prohibiting Illegal Discrimination in Registered Apprenticeship Programs",
+      "type": "Rule",
+      "abstract": "The Department of Labor (DOL or the Department) is issuing this final rule to remove the onerous and legally questionable affirmative action requirements that were previously imposed by the Department on Registered Apprenticeship program sponsors. This final rule also streamlines and simplifies nondiscrimination obligations for all program sponsors, while clarifying that sponsors are accountable for compliance with Federal and State nondiscrimination protections. It also makes conforming, technical changes to the Department's regulation that addresses Labor Standards for the Registration of Apprenticeship Programs.",
+      "publication_date": "2026-11-06",
+      "comments_close_on": null,
+      "effective_on": "2027-01-05",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/06/2026-22680/prohibiting-illegal-discrimination-in-registered-apprenticeship-programs",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-06/pdf/2026-22680.pdf",
+      "comment_url": null,
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF LABOR",
+          "name": "Labor Department",
+          "id": 271,
+          "url": "https://www.federalregister.gov/agencies/labor-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
+          "parent_id": null,
+          "slug": "labor-department"
+        }
+      ],
+      "docket_ids": [
+        "Docket No. ETA-2025-0006"
+      ],
+      "regulation_id_numbers": [
+        "1205-AC21"
+      ]
+    }
+  ]
+}

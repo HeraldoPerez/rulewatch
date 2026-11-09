@@ -1,0 +1,18 @@
+# Each watch is a saved search of the Federal Register.
+#
+#   name:     lowercase letters, numbers and hyphens. Used as the output file name.
+#   agencies: Federal Register agency slugs. Find one at
+#             https://www.federalregister.gov/agencies (it's the last part of the URL).
+#   keywords: a document matches if it contains ANY of these. Phrases are matched exactly.
+#   types:    optional. RULE, PRORULE (proposed rule), NOTICE or PRESDOCU. Leave out for all.
+#
+# Give each watch at least one agency or keyword.
+
+- name: small-business-labor
+  agencies: [labor-department]
+  keywords: ["small business", "overtime"]
+  types: [PRORULE, RULE]
+
+- name: epa-proposed-rules
+  agencies: [environmental-protection-agency]
+  types: [PRORULE]
