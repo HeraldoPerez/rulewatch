@@ -42,8 +42,7 @@ Each watch needs at least one agency or keyword. If something in the file is wro
 Needs Python 3.10 or newer.
 
 ```bash
-git clone https://github.com/Khalick/rulewatch.git
-cd rulewatch
+git clone https:https://github.com/HeraldoPerez/rulewatch
 
 python -m venv .venv
 source .venv/bin/activate          # Windows: .venv\Scripts\activate
